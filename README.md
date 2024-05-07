@@ -1,5 +1,5 @@
 # decision-making-process
-This is Trans Rally's decision making process for each working group.
+This is Trans Rally's decision making process for each working group. Working groups are NOT projects.
 
 The intention is to create a decision making process that each working group can follow in order to standardize and continuously improve.
 
